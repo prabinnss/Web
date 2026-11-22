@@ -1,0 +1,1 @@
+Prabin Paudel website. Upload the CONTENTS of this folder (index.html, style.css, script.js, prabin-paudel.jpg) to your hosting site in the same directory. For Netlify drag-and-drop, unzip and drop the folder. The photo is referenced as ./prabin-paudel.jpg. No build step needed.
